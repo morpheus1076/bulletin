@@ -1,8 +1,8 @@
 Config = {}
 
 Config.Timeout          = 5000          -- Overridden by the `timeout` param
-Config.Position         = "bottomleft"  -- Overridden by the `position` param
-Config.Progress         = false         -- Overridden by the `progress` param
+Config.Position         = "topright"  -- Overridden by the `position` param
+Config.Progress         = true         -- Overridden by the `progress` param
 Config.Theme            = "default"     -- Overridden by the `theme` param
 Config.Queue            = 5             -- No. of notifications to show before queueing
 Config.Stacking         = true
